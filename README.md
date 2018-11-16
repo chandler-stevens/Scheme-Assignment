@@ -1,2 +1,2 @@
-# Scheme-Assignment
+# Scheme Assignment
 CSC 3310 Scheme Assignment
